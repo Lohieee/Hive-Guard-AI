@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Shield Background -->
+  <path d="M24 4L8 10V22C8 31.5 14.8 40.2 24 44C33.2 40.2 40 31.5 40 22V10L24 4Z" fill="#1B4332" stroke="#2D6A4F" stroke-width="2"/>
+  <!-- Honeycomb Hexagon Accent -->
+  <path d="M24 14L32 18.5V27.5L24 32L16 27.5V18.5L24 14Z" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#143D2B"/>
+  <!-- Bee Body -->
+  <ellipse cx="24" cy="23" rx="4" ry="6" fill="#F59E0B"/>
+  <!-- Bee Stripes -->
+  <line x1="20.5" y1="21" x2="27.5" y2="21" stroke="#1E293B" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="20.5" y1="24" x2="27.5" y2="24" stroke="#1E293B" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Bee Wings -->
+  <path d="M21 21C18 17 14 18 16 21C18 24 21 22 21 22" fill="#D8F3DC" fill-opacity="0.8"/>
+  <path d="M27 21C30 17 34 18 32 21C30 24 27 22 27 22" fill="#D8F3DC" fill-opacity="0.8"/>
+  <!-- AI / Sensor Dot / Pulse -->
+  <circle cx="24" cy="37" r="2" fill="#10B981"/>
+</svg>
